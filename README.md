@@ -14,4 +14,4 @@ Here is What I'm Currently Focusing On!
 
   🔭 I just launched my portfolio: https://mhaddad20.github.io/
 
-  💼 See my Personal Website: https://mhaddad.netlify.app/
+  💼 See my Personal Website and Resume: https://mhaddad.netlify.app/

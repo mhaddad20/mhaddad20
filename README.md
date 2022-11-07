@@ -21,7 +21,7 @@ Here is What I'm Currently Focusing On!
   
   
   
-  Familiar Tech Stack:
+**  Familiar Tech Stack:**
   
   
   ![image](https://user-images.githubusercontent.com/71699703/200383225-94ab42ed-1884-4664-996e-7ef17b21328a.png)
@@ -30,9 +30,9 @@ Here is What I'm Currently Focusing On!
   
   
   
-  
+**  
   Used Tools:
-  
+  **
   
   
   

@@ -30,6 +30,9 @@ Here is What I'm Currently Focusing On!
   
   ![image](https://user-images.githubusercontent.com/71699703/200383225-94ab42ed-1884-4664-996e-7ef17b21328a.png)
   
+  ![image](https://user-images.githubusercontent.com/71699703/200398172-190a970c-cceb-4bb3-82e3-7c4b9d624d5a.png)
+
+  
   
   
 

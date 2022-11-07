@@ -28,11 +28,8 @@ Here is What I'm Currently Focusing On!
   
   
   
-  
-  
-**  
-  Used Tools:
-  **
+
+**Used tools**
   
   
   

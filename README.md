@@ -15,43 +15,12 @@ Here is What I'm Currently Focusing On!
   🔭 I just launched my portfolio: https://mhaddad20.github.io/
 
   💼 See my Personal Website and Resume: https://mhaddad.netlify.app/
-![image](https://user-images.githubusercontent.com/71699703/200197674-d5feb53a-cd15-4b0f-a05b-56d1c5bb94a0.png)
+![image](https://user-images.githubusercontent.com/71699703/200382757-43e4820f-bf4c-4f7d-9d7c-6cf27c33bd5a.png)
+![image](https://user-images.githubusercontent.com/71699703/200382781-458a0d1b-c920-4ea6-81e5-ea366fc5e14e.png)
+![image](https://user-images.githubusercontent.com/71699703/200382795-d447c993-dfed-4bc3-8855-0f14751b8389.png)
+![image](https://user-images.githubusercontent.com/71699703/200382807-966d0d9c-b8c1-48f4-a402-fde03e66ad9b.png)
+![image](https://user-images.githubusercontent.com/71699703/200382821-92dc3021-a4d7-4336-b017-0feb4f44b26b.png)
+![image](https://user-images.githubusercontent.com/71699703/200382834-0b4eab69-8e57-4379-940d-dd98e164d1c3.png)
+![image](https://user-images.githubusercontent.com/71699703/200382847-cf9b9a4d-389b-4560-a1fb-1047eda20a15.png)
+![image](https://user-images.githubusercontent.com/71699703/200382857-fc54c1e7-c784-4332-b534-b5820e756b96.png)
 
-
-Portfolio LinkedIn Gmail LeetCode HackerRank
-
-visitor badge Github Followers
-
-
-What I'm focusing on 👨‍💻
-Github
-
-🌱 Currently learning Java programming 😎
-
-👯 I’m looking to collaborate with other developer
-
-🥅 2022 goals: Make project and contribute to Open Source
-
-⚡ Fun fact: I love to make photos and videos
-
-![image](https://user-images.githubusercontent.com/71699703/200379301-3f4be810-be4b-4d88-b40d-69a99a7c3dfa.png)
-
-
-🔭 I just launched my portfolio: https://sanajitjana.github.io/
-
-💼 See my experience over the year: Resume
-
-
-Familiar Tech Stack:
-Coding Boy
-
-
-
-
-Used Tools:
-
-
-
-Interests:
-Explore new Tech 💻
-Travel & Ride 🌎

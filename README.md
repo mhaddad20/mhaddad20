@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 **My name is Muhammed and I am a Full-Stack Web Developer and Life-Long Learner!**
+### My name is Muhammed and I am a Full-Stack Web Developer and Life-Long Learner
 
 Here is What I'm Currently Focusing On!
 

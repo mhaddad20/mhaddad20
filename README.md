@@ -16,6 +16,8 @@ Here is What I'm Currently Focusing On!
 
   💼 See my Personal Website and Resume: https://mhaddad.netlify.app/
   
+  
+  
   Familiar Tech Stack:
   
   
@@ -24,6 +26,9 @@ Here is What I'm Currently Focusing On!
   
   
   Used Tools:
+  
+  
+  
   ![image](https://user-images.githubusercontent.com/71699703/200383312-bca1b7f7-48c8-429a-a139-d0245a756c00.png)
 
 

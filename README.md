@@ -34,6 +34,9 @@ Github
 
 ⚡ Fun fact: I love to make photos and videos
 
+![image](https://user-images.githubusercontent.com/71699703/200379301-3f4be810-be4b-4d88-b40d-69a99a7c3dfa.png)
+
+
 🔭 I just launched my portfolio: https://sanajitjana.github.io/
 
 💼 See my experience over the year: Resume

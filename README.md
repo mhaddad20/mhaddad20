@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Muhammed and I am a Full-Stack Web Developer and Life-Long Learner
+### My name is Muhammed and I am an aspiring Software Engineer and Life-Long Learner
 
 Here is What I'm Currently Focusing On!
 
@@ -8,21 +8,14 @@ Here is What I'm Currently Focusing On!
 
   👯 I’m looking to collaborate with other developers
 
-  🥅 2022 goals: Make more projects and contribute to Open Source
+  🥅 2025 goals: Make more projects and contribute to Open Source
 
   ⚡ Fun fact: I love to make photos and videos
 
-  🔭 I just launched my portfolio: https://mhaddad20.github.io/
-
-  💼 See my Personal Website and Resume: https://mhaddad.netlify.app/
+  🔭 I just launched my portfolio: https://mhaddad20.github.io/  
   
+    
   
-  
-  
-  
-  
-  
-      
 
 
 **Familiar Tech Stack:**
